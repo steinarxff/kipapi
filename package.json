@@ -1,0 +1,27 @@
+{
+  "name": "kipapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/exe.js",
+  "scripts": {
+    "test": "./bin/exe.js",
+    "start": "./bin/exe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steinarxff/kipapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steinarxff/kipapi/issues"
+  },
+  "homepage": "https://github.com/steinarxff/kipapi#readme",
+  "dependencies": {
+    	"express": "^4.13.3",
+	"tingodb": "0.4.2",
+	"tungus": "0.0.5",
+	"mongoose": "3.8"
+
+  }
+}
