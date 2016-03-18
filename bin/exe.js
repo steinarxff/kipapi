@@ -3,6 +3,7 @@
 var express = require('express'),
   debug = require('debug')('exe'),
   db = require('./db.js'),
+  calendar = require('./calendar.js'),
   app = express();
 
 db.init();

@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/steinarxff/kipapi#readme",
   "dependencies": {
-    	"express": "^4.13.3",
-	"tingodb": "0.4.2",
-	"tungus": "0.0.5",
-	"mongoose": "3.8"
-
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^3.1.0",
+    "mongoose": "3.8",
+    "tingodb": "0.4.2",
+    "tungus": "0.0.5"
   }
 }
